@@ -3,8 +3,10 @@
 <br></br>
 _Dashboards_ para visualização de dados. Os relatórios foram elaborados com dados fictícios ou públicos. Informações sobre a origem dos dados está disponível no canto inferior direito.
 
-#### Projeto 1 
-[Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDljMWFhZDMtZmJmNS00MGI3LWJiNGEtZTQ4ZTMzZjIxMjNiIiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection)
+#### Projeto 1: [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDljMWFhZDMtZmJmNS00MGI3LWJiNGEtZTQ4ZTMzZjIxMjNiIiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection)
+Objetivo:
+- Treinar Modelagem de Organização de Dados - Star Schema;
+- Gerenciamento de relacionamento entre tabela fato e tabelas dimensões;
 
 ![Isso é uma imagem](https://user-images.githubusercontent.com/28782509/176966523-3a5c01a0-d77e-42a8-aecf-d37cc1160f5f.png)"
 
