@@ -10,5 +10,7 @@ Objetivo:
 
 ![Isso é uma imagem](https://user-images.githubusercontent.com/28782509/176966523-3a5c01a0-d77e-42a8-aecf-d37cc1160f5f.png)"
 
- 
-
+#### Projeto 2: [Dashboard de Vendas, Custos e Margem de Lucro]
+Objetivo:
+- Treinar Relacionamento e Cardinalidade manualmente;
+- Power Query e DAX;
