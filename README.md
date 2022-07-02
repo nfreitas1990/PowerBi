@@ -7,7 +7,9 @@ _Dashboards_ para visualização de dados. Os relatórios foram elaborados com d
 :book:[Relatório 1](https://github.com/nfreitas1990/PowerBi/tree/main/Projeto_1/doc)
 
 
-![Isso é uma imagem](https://user-images.githubusercontent.com/28782509/176966523-3a5c01a0-d77e-42a8-aecf-d37cc1160f5f.png)"
+![image](https://user-images.githubusercontent.com/28782509/176981989-e52cbe6f-0e91-4eb7-a701-07d090b4c146.png)
 
 #### Projeto 2: [Dashboard de Vendas, Custos e Margem de Lucro]
+
+
 
