@@ -3,7 +3,7 @@
 <br></br>
 _Dashboards_ para visualização de dados. Os relatórios foram elaborados com dados fictícios ou públicos. Informações sobre a origem dos dados está disponível no canto inferior direito.
 
-#### Projeto 1: [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDljMWFhZDMtZmJmNS00MGI3LWJiNGEtZTQ4ZTMzZjIxMjNiIiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection)
+#### Projeto 1: [Dashboard: Análise de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDljMWFhZDMtZmJmNS00MGI3LWJiNGEtZTQ4ZTMzZjIxMjNiIiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection)
 :book:[Relatório 1](https://github.com/nfreitas1990/PowerBi/blob/main/Projeto_1/Relatorio_Projeto%201.pdf)
 
 
