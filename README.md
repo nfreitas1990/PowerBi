@@ -3,7 +3,7 @@
 <br></br>
 _Dashboards_ para visualização de dados construídos utilizando o software PowerBi. Os mapas foram desenvolvidos com o software ArcGis Online. 
 <br></br>
-**EM CONSTRUÇÃO**
+
 <br></br>
 
 #### Projeto: [Dashboard de Banco de Dados da Ictiofauna](https://app.powerbi.com/view?r=eyJrIjoiNjU2MDY1YzMtNzU3My00YjQyLWI5NTEtNzVmNjRhZGIzODg4IiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection08c7f7c0d9990d1e4ca3)
@@ -14,6 +14,8 @@ _Dashboards_ para visualização de dados construídos utilizando o software Pow
 
 #### Projeto: [Dashboard: Análise de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDljMWFhZDMtZmJmNS00MGI3LWJiNGEtZTQ4ZTMzZjIxMjNiIiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection)
 :book:[Relatório 1](https://github.com/nfreitas1990/PowerBi/blob/main/Projeto_1/Relatorio_Projeto%201.pdf)
+
+**** Projeto e relatório elaborado com dados fictícios e públicos para treinamento do software. Informações sobre a origem dos dados está disponível no canto inferior direito.
 
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/28782509/176981989-e52cbe6f-0e91-4eb7-a701-07d090b4c146.png">
 
