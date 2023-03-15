@@ -14,7 +14,8 @@ _Dashboards_ para visualização de dados. Os relatórios foram elaborados com d
 #### Projeto: [Dashboard: Análise de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDljMWFhZDMtZmJmNS00MGI3LWJiNGEtZTQ4ZTMzZjIxMjNiIiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection)
 :book:[Relatório 1](https://github.com/nfreitas1990/PowerBi/blob/main/Projeto_1/Relatorio_Projeto%201.pdf)
 
-![image](https://user-images.githubusercontent.com/28782509/176981989-e52cbe6f-0e91-4eb7-a701-07d090b4c146.png)
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/28782509/176981989-e52cbe6f-0e91-4eb7-a701-07d090b4c146.png">
+
 
 
 
