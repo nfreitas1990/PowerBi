@@ -4,8 +4,6 @@
 _Dashboards_ para visualização de dados construídos utilizando o software PowerBi. Os mapas foram desenvolvidos com o software ArcGis Online. 
 <br></br>
 
-<br></br>
-
 #### Projeto: [Dashboard de Banco de Dados da Ictiofauna](https://app.powerbi.com/view?r=eyJrIjoiNjU2MDY1YzMtNzU3My00YjQyLWI5NTEtNzVmNjRhZGIzODg4IiwidCI6IjhjZTM3NDEyLWVhNGItNDRlMC1iYjhmLWU0NDQ2YTgxMTAzNyJ9&pageName=ReportSection08c7f7c0d9990d1e4ca3)
 ###### Projeto em andamento para a construção de um banco de dados de ictiofauna na bacia do rio Doce. O levantamento de dados foi realizado em relatórios e artigos científicos. Foram compilados mais de 20 mil ocorrências de peixes na bacia. O projeto agora está na etapa de exploratória dos dados e na construção dos mapas e análises geoespaciais para integrar a aba 'Análises'.   
 :book:[DashBoard em construção]
